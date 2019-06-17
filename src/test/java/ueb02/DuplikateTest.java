@@ -1,3 +1,4 @@
+/*
 package ueb02;
 
 import org.junit.jupiter.api.Test;
@@ -34,3 +35,5 @@ class DuplikateTest {
 	}
 
 }
+
+ */
